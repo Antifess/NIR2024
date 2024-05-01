@@ -1,0 +1,16 @@
+debug/SerialPort.o
+debug/commandextender.o
+debug/glwidget.o
+debug/group3d.o
+debug/main.o
+debug/mainwindow.o
+debug/qcustomplot.o
+debug/simpleobject3d.o
+debug/structs_cmds.o
+debug/structs_tools.o
+debug/qrc_shaders.o
+debug/qrc_textures.o
+debug/moc_SerialPort.o
+debug/moc_glwidget.o
+debug/moc_mainwindow.o
+debug/moc_qcustomplot.o

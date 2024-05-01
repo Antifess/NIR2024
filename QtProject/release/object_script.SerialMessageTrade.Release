@@ -1,0 +1,16 @@
+release/SerialPort.o
+release/commandextender.o
+release/glwidget.o
+release/group3d.o
+release/main.o
+release/mainwindow.o
+release/qcustomplot.o
+release/simpleobject3d.o
+release/structs_cmds.o
+release/structs_tools.o
+release/qrc_shaders.o
+release/qrc_textures.o
+release/moc_SerialPort.o
+release/moc_glwidget.o
+release/moc_mainwindow.o
+release/moc_qcustomplot.o
